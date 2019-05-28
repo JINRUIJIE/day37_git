@@ -6,7 +6,6 @@ public class App {
         System.out.println("hahaha");
 
         System.out.println("houhou");
-        System.out.println("houhou");
 
 
     }
